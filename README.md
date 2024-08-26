@@ -5,3 +5,5 @@ Utilized Microsoft Power BI to analyze global sales trends: $29.35M in total sal
 
 Created interactive dashboards to visualize sales data by region, product category, currency (USD highest at ~$15M), and month (November highest at ~$3.10M, February lowest at ~$1.75M).
 
+Interactive dashboards and predictive modeling were utilized to empower stakeholders with actionable information for strategic decision-making and product optimization.
+
